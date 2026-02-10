@@ -16,3 +16,5 @@ pnpm-debug.log*
 .vscode/*
 !.vscode/launch.json
 
+# TypeScript build info (local)
+*.tsbuildinfo
